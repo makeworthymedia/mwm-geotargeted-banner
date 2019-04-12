@@ -6,7 +6,7 @@
 /*
 Plugin Name: Geotargeted Banner
 Plugin URI: https://www.makeworthymedia.com/
-Description: Displays a banner to IP addresses with certain ISO 3166 continent codes using the geoplugin.net database. Requires Advanced Custom Fields Pro plugin. Settings are under the "Options" tab.
+Description: Displays a banner to IP addresses with certain ISO 3166 continent codes using the geoplugin.net service. Requires Advanced Custom Fields Pro plugin. Settings are under the "Options" tab.
 Author: Makeworthy Media
 Version: 1.0
 Author URI: https://www.makeworthymedia.com/

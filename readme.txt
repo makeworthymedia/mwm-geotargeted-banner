@@ -6,11 +6,11 @@ Requires at least: 5.0
 Tested up to: 5.0
 Stable tag: 1.0
 
-Displays a banner to IP addresses with certain ISO 3166 continent codes using the geoplugin.net database.
+Displays a banner to IP addresses with certain ISO 3166 continent codes using the geoplugin.net service.
 
 == Description ==
 
-Displays a banner to IP addresses with certain ISO 3166 continent codes using the geoplugin.net database. Requires the Advanced Custom Fields Pro plugin to work. Settings are under the "Options" tab. Due to the nature of IP addresses and the existence of VPN connections, there is no way to ensure the banner will only appear to people in a certain continent. There is no guarantee that this plugin will meet GDPR guidelines. Please consult a lawyer for all legal matters regarding GDPR.
+Displays a banner to IP addresses with certain ISO 3166 continent codes using the geoplugin.net service. Requires the Advanced Custom Fields Pro plugin to work. Settings are under the "Options" tab. Due to the nature of IP addresses and the existence of VPN connections, there is no way to ensure the banner will only appear to people in a certain continent. There is no guarantee that this plugin will meet GDPR guidelines. Please consult a lawyer for all legal matters regarding GDPR.
 
 == Installation ==
 
