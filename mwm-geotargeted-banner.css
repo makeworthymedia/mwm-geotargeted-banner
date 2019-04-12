@@ -1,0 +1,39 @@
+.geotarget-footer-container {
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+
+.geotarget-footer {
+	background-color: #818286;
+	color: #fff;
+	padding: 20px 10px;
+	text-align: center;
+}
+
+.geotarget-footer,
+.geotarget-footer button {
+	font-size: 14px;
+}
+
+.geotarget-footer .widget {
+	margin: 0;
+}
+
+.geotarget-footer p {
+	margin: 0;
+}
+
+.geotarget-footer a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.geotarget-footer a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.geotarget-hide {
+	display: none;
+}
